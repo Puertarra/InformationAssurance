@@ -1,0 +1,7 @@
+( TITLE-ABS-KEY ( information AND assurance ) OR TITLE-ABS-KEY ( information AND security ) OR TITLE-ABS-KEY ( c*bersecurity ) ) AND PUBYEAR > 2015 AND PUBYEAR < 2025
+
+( TITLE-ABS-KEY ( "information assurance" ) OR TITLE-ABS-KEY ( "information security" ) OR TITLE-ABS-KEY ( c*bersecurity ) )
+
+
+Search for a SLR
+( TITLE-ABS-KEY ( "information assurance" ) OR TITLE-ABS-KEY ( "information security" ) OR TITLE-ABS-KEY ( c*bersecurity ) AND TITLE ( "survey" OR "review" ) ) AND PUBYEAR > 2016 AND PUBYEAR < 2025
